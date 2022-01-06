@@ -51,7 +51,6 @@ export const HabboHotelImage = styled.img`
 `;
 
 export const Teste = styled.div`
-background: #f90;
 
 `;
 
